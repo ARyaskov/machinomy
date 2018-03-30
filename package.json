@@ -54,7 +54,7 @@
     "fetch-ponyfill": "^5.0.1",
     "homedir": "https://github.com/ukstv/node-homedir",
     "nedb": "^1.8.0",
-    "pg-native": "^2.2.0",
+    "pg-native": "https://github.com/machinomy/node-pg-native/archive/v2.2.00002.tar.gz",
     "prompt": "^1.0.0",
     "request": "^2.76.0",
     "request-promise-native": "^1.0.5",
@@ -68,7 +68,7 @@
   },
   "optionalDependencies": {
     "pg": "^7.4.1",
-    "mongodb": "https://github.com/machinomy/node-mongodb-native/archive/v.2.2.340002.tar.gz"
+    "mongodb": "https://github.com/machinomy/node-mongodb-native/archive/v.2.2.340003.tar.gz"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.43",
